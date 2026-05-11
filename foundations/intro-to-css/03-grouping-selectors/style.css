@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+#main, #main-two {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+#main {
+    background-color: black;
+    color: white;
+}
+
+#main-two {
+    background-color: yellow;
+    color: black;
+}
